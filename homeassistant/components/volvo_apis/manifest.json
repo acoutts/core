@@ -1,0 +1,15 @@
+{
+  "domain": "volvo_apis",
+  "name": "Volvo APIs",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/volvo_apis",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@acoutts"
+  ],
+  "iot_class": "cloud_polling"
+}
